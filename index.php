@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="A Web Assingment On Html & Css">
+    <meta name="keywords" content="Html, CSS, JavaScript, PHP">
+    <meta name="author" content="Sajib Adhikary">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sajib Adhikary</title>
+    <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon">
+    <link rel="stylesheet" href="css/all.min.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <!-- Header Section Start -->
+    <div class="wrapper-full header-full">
+        <div class="wrapper header">
+            <p>
+                <i class="fas fa-envelope"></i>
+                <span>
+                    Mail us : sajibadhikery@gmail.com
+                </span>
+            </p>
+
+            <ul>
+                <!-- github -->
+                <li>
+                    <a href="">
+                        <i class="fab fa-github-square"></i>
+                    </a>
+                </li>
+                <!-- Facebook -->
+                <li>
+                    <a href="https://www.facebook.com/sajib.adhikery.5">
+                        <i class="fab fa-facebook-square"></i>
+                    </a>
+                </li>
+                <!-- youtube -->
+                <li>
+                    <a href="">
+                        <i class="fab fa-youtube-square"></i>
+                    </a>
+                </li>
+                <!-- Linkedin -->
+                <li>
+                    <a href="">
+                        <i class="fab fa-linkedin"></i>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <!-- Header Section End -->
+
+
+    <!-- Navbar Section Start -->
+    <div class="wrapper-full navbar-full">
+        <div class="wrapper navbar">
+            <ul>
+                <li>
+                    <a href="#">Home</a>
+                </li>
+                <li>
+                    <a href="#">About</a>
+                </li>
+                <li>
+                    <a href="#">Contact</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <!-- Navbar Section End -->
+
+
+    <!-- Banner Section Start -->
+    <div class="wrapper-full banner-full">
+        <div class="wrapper banner">
+
+        </div>
+    </div>
+    <!-- Banner Section End -->
+
+
+    <!-- Content Section Start -->
+    <div class="wrapper-full content-full">
+        <div class="wrapper content">
+            <h2>Dummy Content</h2>
+            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p>
+            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p>
+        </div>
+    </div>
+    <!-- Content Section End -->
+
+    
+    <!-- Footer Section Start -->
+    <div class="wrapper-full footer-full">
+        <div class="wrapper footer">
+            <p>Copyright &COPY; Sajib Adhikary</p>
+        </div>
+    </div>
+    <!-- Footer Section End -->
+</body>
+
+</html>
